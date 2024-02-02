@@ -27,7 +27,7 @@
             type="button"
             class="text-white text-2xl font-semibold hover:underline cursor-pointer"
         >
-        Recommended Ayat
+        Recommended Ayatt
         </button>
 
         <div class="py-1.5"></div>
